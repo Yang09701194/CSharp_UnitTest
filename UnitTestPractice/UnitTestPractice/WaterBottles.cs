@@ -10,6 +10,7 @@ namespace UnitTestPractice
 	{
 
 		// mouse right click > top create unit tests
+		// or Solution > right click add Unit Test Project
 		public int NumWaterBottles(int numBottles, int numExchange)
 		{
 			int totalDrinkBottles = numBottles;
